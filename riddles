@@ -1,0 +1,454 @@
+[
+  {
+    "riddle": "What is the closest planet to the Sun?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "riddle": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "riddle": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Saturn", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "What is the name of the galaxy we live in?",
+    "options": ["Andromeda", "Whirlpool", "Milky Way", "Sombrero"],
+    "answer": "Milky Way"
+  },
+  {
+    "riddle": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "answer": "Saturn"
+  },
+  {
+    "riddle": "Which star is at the center of our Solar System?",
+    "options": ["Sirius", "Polaris", "Betelgeuse", "The Sun"],
+    "answer": "The Sun"
+  },
+  {
+    "riddle": "What is the term for a massive explosion that marks the death of a star?",
+    "options": ["Nova", "Supernova", "Black hole", "White dwarf"],
+    "answer": "Supernova"
+  },
+  {
+    "riddle": "What planet is famous for its rings?",
+    "options": ["Neptune", "Jupiter", "Uranus", "Saturn"],
+    "answer": "Saturn"
+  },
+  {
+    "riddle": "Which planet is known as the 'Evening Star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the smallest planet in our Solar System?",
+    "options": ["Mars", "Venus", "Pluto", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "riddle": "What protects Earth from harmful solar radiation?",
+    "options": ["Ozone layer", "Magnetic field", "Atmosphere", "Clouds"],
+    "answer": "Magnetic field"
+  },
+  {
+    "riddle": "What is the term for a small rocky body that orbits the Sun?",
+    "options": ["Asteroid", "Meteor", "Comet", "Moon"],
+    "answer": "Asteroid"
+  },
+  {
+    "riddle": "What is the name of the first satellite sent into space?",
+    "options": ["Apollo 11", "Sputnik", "Voyager", "Pioneer"],
+    "answer": "Sputnik"
+  },
+  {
+    "riddle": "What is the closest galaxy to the Milky Way?",
+    "options": ["Andromeda", "Triangulum", "Whirlpool", "Sombrero"],
+    "answer": "Andromeda"
+  },
+  {
+    "riddle": "What is a light year a measure of?",
+    "options": ["Time", "Speed", "Distance", "Energy"],
+    "answer": "Distance"
+  },
+  {
+    "riddle": "Which planet is tilted on its side, making its rotation unique?",
+    "options": ["Neptune", "Uranus", "Venus", "Pluto"],
+    "answer": "Uranus"
+  },
+  {
+    "riddle": "What is the hottest planet in the Solar System?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the name of NASA’s most famous space telescope?",
+    "options": ["Hubble", "Chandra", "James Webb", "Kepler"],
+    "answer": "Hubble"
+  },
+  {
+    "riddle": "What is the shape of the Milky Way galaxy?",
+    "options": ["Elliptical", "Spiral", "Irregular", "Spherical"],
+    "answer": "Spiral"
+  },
+  {
+    "riddle": "What do we call a system of millions or billions of stars held together by gravity?",
+    "options": ["Solar System", "Constellation", "Galaxy", "Nebula"],
+    "answer": "Galaxy"
+  },
+  {
+    "riddle": "What planet has the highest mountain and deepest canyon in the Solar System?",
+    "options": ["Earth", "Mars", "Venus", "Neptune"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "What is the term for the boundary around a black hole beyond which nothing can escape?",
+    "options": ["Event Horizon", "Singularity", "Schwarzschild Radius", "Photon Sphere"],
+    "answer": "Event Horizon"
+  },
+  {
+    "riddle": "What is the second smallest planet in our Solar System?",
+    "options": ["Mars", "Venus", "Earth", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "Which planet has a storm called the Great Red Spot?",
+    "options": ["Neptune", "Jupiter", "Saturn", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "riddle": "What is the only moon in our Solar System with a thick atmosphere?",
+    "options": ["Europa", "Titan", "Ganymede", "Io"],
+    "answer": "Titan"
+  },
+  {
+    "riddle": "What is the closest planet to the Sun?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "riddle": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "riddle": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Saturn", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "What is the name of the galaxy we live in?",
+    "options": ["Andromeda", "Whirlpool", "Milky Way", "Sombrero"],
+    "answer": "Milky Way"
+  },
+  {
+    "riddle": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "answer": "Saturn"
+  },
+  {
+    "riddle": "Which star is at the center of our Solar System?",
+    "options": ["Sirius", "Polaris", "Betelgeuse", "The Sun"],
+    "answer": "The Sun"
+  },
+  {
+    "riddle": "What is the term for a massive explosion that marks the death of a star?",
+    "options": ["Nova", "Supernova", "Black hole", "White dwarf"],
+    "answer": "Supernova"
+  },
+  {
+    "riddle": "What planet is famous for its rings?",
+    "options": ["Neptune", "Jupiter", "Uranus", "Saturn"],
+    "answer": "Saturn"
+  },
+  {
+    "riddle": "Which planet is known as the 'Evening Star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the smallest planet in our Solar System?",
+    "options": ["Mars", "Venus", "Pluto", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "riddle": "What protects Earth from harmful solar radiation?",
+    "options": ["Ozone layer", "Magnetic field", "Atmosphere", "Clouds"],
+    "answer": "Magnetic field"
+  },
+  {
+    "riddle": "What is the term for a small rocky body that orbits the Sun?",
+    "options": ["Asteroid", "Meteor", "Comet", "Moon"],
+    "answer": "Asteroid"
+  },
+  {
+    "riddle": "What is the name of the first satellite sent into space?",
+    "options": ["Apollo 11", "Sputnik", "Voyager", "Pioneer"],
+    "answer": "Sputnik"
+  },
+  {
+    "riddle": "What is the closest galaxy to the Milky Way?",
+    "options": ["Andromeda", "Triangulum", "Whirlpool", "Sombrero"],
+    "answer": "Andromeda"
+  },
+  {
+    "riddle": "What is a light year a measure of?",
+    "options": ["Time", "Speed", "Distance", "Energy"],
+    "answer": "Distance"
+  },
+  {
+    "riddle": "Which planet is tilted on its side, making its rotation unique?",
+    "options": ["Neptune", "Uranus", "Venus", "Pluto"],
+    "answer": "Uranus"
+  },
+  {
+    "riddle": "What is the hottest planet in the Solar System?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the name of NASA’s most famous space telescope?",
+    "options": ["Hubble", "Chandra", "James Webb", "Kepler"],
+    "answer": "Hubble"
+  },
+  {
+    "riddle": "What is the shape of the Milky Way galaxy?",
+    "options": ["Elliptical", "Spiral", "Irregular", "Spherical"],
+    "answer": "Spiral"
+  },
+  {
+    "riddle": "What do we call a system of millions or billions of stars held together by gravity?",
+    "options": ["Solar System", "Constellation", "Galaxy", "Nebula"],
+    "answer": "Galaxy"
+  },
+  {
+    "riddle": "What planet has the highest mountain and deepest canyon in the Solar System?",
+    "options": ["Earth", "Mars", "Venus", "Neptune"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "What is the term for the boundary around a black hole beyond which nothing can escape?",
+    "options": ["Event Horizon", "Singularity", "Schwarzschild Radius", "Photon Sphere"],
+    "answer": "Event Horizon"
+  },
+  {
+    "riddle": "What is the second smallest planet in our Solar System?",
+    "options": ["Mars", "Venus", "Earth", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "Which planet has a storm called the Great Red Spot?",
+    "options": ["Neptune", "Jupiter", "Saturn", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "riddle": "What is the only moon in our Solar System with a thick atmosphere?",
+    "options": ["Europa", "Titan", "Ganymede", "Io"],
+    "answer": "Titan"
+  },
+  {
+    "riddle": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "riddle": "Which planet is often referred to as Earth's twin due to its similar size?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "Which moon is believed to have an ocean beneath its icy surface?",
+    "options": ["Europa", "Titan", "Enceladus", "Callisto"],
+    "answer": "Europa"
+  },
+  {
+    "riddle": "Which planet has the shortest day in the Solar System?",
+    "options": ["Jupiter", "Mercury", "Earth", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "riddle": "What phenomenon occurs when the Moon passes directly between the Sun and Earth?",
+    "options": ["Solar Eclipse", "Lunar Eclipse", "Equinox", "Supermoon"],
+    "answer": "Solar Eclipse"
+  },
+  {
+    "riddle": "What planet is home to the largest volcano in the Solar System?",
+    "options": ["Earth", "Mars", "Venus", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "What is the brightest star in the night sky?",
+    "options": ["Polaris", "Sirius", "Betelgeuse", "Vega"],
+    "answer": "Sirius"
+  },
+  {
+    "riddle": "What force keeps the planets in orbit around the Sun?",
+    "options": ["Magnetism", "Gravity", "Centrifugal Force", "Friction"],
+    "answer": "Gravity"
+  },
+  {
+    "riddle": "Which planet is known for its extreme winds and blue color?",
+    "options": ["Neptune", "Uranus", "Jupiter", "Saturn"],
+    "answer": "Neptune"
+  },
+  {
+    "riddle": "What is the term for a rocky object that burns up in Earth's atmosphere?",
+    "options": ["Asteroid", "Meteor", "Comet", "Satellite"],
+    "answer": "Meteor"
+  },
+  {
+    "riddle": "What was the first planet discovered using a telescope?",
+    "options": ["Saturn", "Uranus", "Neptune", "Venus"],
+    "answer": "Uranus"
+  },
+  {
+    "riddle": "What is the term for the apparent backward motion of planets as seen from Earth?",
+    "options": ["Retrograde Motion", "Ecliptic Motion", "Precession", "Parallax"],
+    "answer": "Retrograde Motion"
+  },
+  {
+    "riddle": "What is the main component of the Sun?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+    "answer": "Hydrogen"
+  },
+  {
+    "riddle": "Which planet is known for its Great Dark Spot?",
+    "options": ["Neptune", "Jupiter", "Saturn", "Uranus"],
+    "answer": "Neptune"
+  },
+  {
+    "riddle": "What is the name of the first human-made object to orbit the Earth?",
+    "options": ["Voyager", "Apollo", "Sputnik 1", "Explorer 1"],
+    "answer": "Sputnik 1"
+  },
+  {
+    "riddle": "What is the boundary where the Sun's solar wind is stopped by the interstellar medium?",
+    "options": ["Heliosphere", "Termination Shock", "Oort Cloud", "Kuiper Belt"],
+    "answer": "Heliosphere"
+  },
+  {
+    "riddle": "What is the approximate age of the universe?",
+    "options": ["4.6 billion years", "13.8 billion years", "100 billion years", "1 trillion years"],
+    "answer": "13.8 billion years"
+  },
+  {
+    "riddle": "What spacecraft was the first to land humans on the Moon?",
+    "options": ["Apollo 11", "Voyager", "Lunar Module", "Sputnik"],
+    "answer": "Apollo 11"
+  },
+  {
+    "riddle": "What is the name of the region beyond Neptune filled with icy objects?",
+    "options": ["Oort Cloud", "Kuiper Belt", "Asteroid Belt", "Heliosphere"],
+    "answer": "Kuiper Belt"
+  },
+  {
+    "riddle": "What is the term for a star at the end of its life that has collapsed into a very dense state?",
+    "options": ["Black Hole", "White Dwarf", "Neutron Star", "Red Giant"],
+    "answer": "Neutron Star"
+  },
+  {
+    "riddle": "What planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "riddle": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "riddle": "What is the name of the galaxy closest to the Milky Way?",
+    "options": ["Andromeda", "Triangulum", "Large Magellanic Cloud", "Whirlpool"],
+    "answer": "Andromeda"
+  },
+  {
+    "riddle": "What is the largest asteroid in the Solar System?",
+    "options": ["Ceres", "Vesta", "Pallas", "Eros"],
+    "answer": "Ceres"
+  },
+  {
+    "riddle": "What is the primary source of the Sun's energy?",
+    "options": ["Nuclear Fusion", "Gravitational Collapse", "Nuclear Fission", "Magnetism"],
+    "answer": "Nuclear Fusion"
+  },
+  {
+    "riddle": "Which space agency launched the Hubble Space Telescope?",
+    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+    "answer": "NASA"
+  },
+  {
+    "riddle": "What is the term for a star that suddenly increases in brightness due to an explosion?",
+    "options": ["Supernova", "Nova", "Quasar", "Pulsar"],
+    "answer": "Supernova"
+  },
+  {
+    "riddle": "Which planet has a tilted rotation, appearing to roll on its side?",
+    "options": ["Uranus", "Venus", "Mars", "Mercury"],
+    "answer": "Uranus"
+  },
+  {
+    "riddle": "What is the smallest planet in the Solar System?",
+    "options": ["Mercury", "Mars", "Venus", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "riddle": "What is the name of the first animal to orbit the Earth?",
+    "options": ["Laika", "Ham", "Belka", "Strelka"],
+    "answer": "Laika"
+  },
+  {
+    "riddle": "Which type of galaxy is the Milky Way?",
+    "options": ["Spiral", "Elliptical", "Irregular", "Lenticular"],
+    "answer": "Spiral"
+  },
+  {
+    "riddle": "What is the name of the outermost layer of the Sun's atmosphere?",
+    "options": ["Corona", "Chromosphere", "Photosphere", "Heliosphere"],
+    "answer": "Corona"
+  },
+  {
+    "riddle": "What is the primary reason for Earth's seasons?",
+    "options": ["Tilt of Earth's axis", "Distance from the Sun", "Earth's rotation", "Moon's gravity"],
+    "answer": "Tilt of Earth's axis"
+  },
+  {
+    "riddle": "What is the name of the first space station launched by the Soviet Union?",
+    "options": ["Salyut 1", "Mir", "Skylab", "ISS"],
+    "answer": "Salyut 1"
+  },
+  {
+    "riddle": "Which planet is the hottest in the Solar System?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the term for the point in a planet's orbit closest to the Sun?",
+    "options": ["Perihelion", "Aphelion", "Perigee", "Apogee"],
+    "answer": "Perihelion"
+  },
+  {
+    "riddle": "What type of celestial object is known for its tail that points away from the Sun?",
+    "options": ["Comet", "Asteroid", "Meteor", "Quasar"],
+    "answer": "Comet"
+  },
+  {
+    "riddle": "What is the name of the region around a planet where its magnetic field traps particles?",
+    "options": ["Magnetosphere", "Ionosphere", "Stratosphere", "Exosphere"],
+    "answer": "Magnetosphere"
+  },
+  {
+    "riddle": "What is the brightest planet in the night sky?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Venus"
+  },
+  {
+    "riddle": "What is the name of the spacecraft that carried the first humans to orbit the Moon?",
+    "options": ["Apollo 8", "Apollo 11", "Gemini 7", "Soyuz 1"],
+    "answer": "Apollo 8"
+  }
+
+
+]
